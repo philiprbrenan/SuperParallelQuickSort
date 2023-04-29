@@ -1,4 +1,4 @@
-# Super PArallel QuickSort
+# Super Parallel QuickSort
 
 ![Test](https://github.com/philiprbrenan/SuperParallelQuickSort/workflows/Test/badge.svg)
 
