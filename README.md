@@ -2,7 +2,9 @@
 
 ![Test](https://github.com/philiprbrenan/SuperParallelQuickSort/workflows/Test/badge.svg)
 
-Demonstrates parallel pivoting in QuickSort using Perl and [Data::Table::Text](https://metacpan.org/pod/Data::Table::Text) to produce:
+Demonstrates parallel pivoting in QuickSort using Perl and [Data::Table::Text](https://metacpan.org/pod/Data::Table::Text) in a [GitHub](https://github.com/philiprbrenan) action
+to produce:
+
 ```
 Threads:  2  Time :   0.7073
 Threads:  3  Time :   0.4869
